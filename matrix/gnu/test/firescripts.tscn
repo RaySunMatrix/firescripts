@@ -1,0 +1,12 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://Spatial.gd" type="Script" id=1]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Node" type="Node" parent="."]
+
+[node name="Spatial" type="Spatial" parent="."]
+process_priority = 512
+transform = Transform( 77.1688, 31.9125, 73.1751, -13.6808, 187.201, -0.935333, -16.0564, -6.12825, 352.483, 160, 380, 720 )
+script = ExtResource( 1 )
