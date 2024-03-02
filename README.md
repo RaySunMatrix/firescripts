@@ -27,7 +27,7 @@ Foundation, Inc.
      developing GNU and promoting software freedom."
    -->
 <meta http-equiv="Content-Style-Type" content="text/css">
-<style type="text/css"><!--
+<style type="text/css">
   pre.display { font-family:inherit }
   pre.format  { font-family:inherit }
   pre.smalldisplay { font-family:inherit; font-size:smaller }
@@ -37,7 +37,7 @@ Foundation, Inc.
   span.sc    { font-variant:small-caps }
   span.roman { font-family:serif; font-weight:normal; } 
   span.sansserif { font-family:sans-serif; font-weight:normal; } 
---></style>
+</style>
 </head>
 <body>
 <h1 class="settitle">Autoconf</h1>
