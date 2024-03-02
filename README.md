@@ -1,5 +1,4 @@
 <html lang="en"><head>
-<title>Autoconf</title>
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
 <meta name="description" content="Autoconf">
 <meta name="generator" content="makeinfo 4.13">
